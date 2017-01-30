@@ -1,2 +1,3 @@
 # hello-world
-A Tutorial Project fro using GitHub
+welcome every one to this Tutorial 
+we are learning together the basics of GitHub and how it work 
